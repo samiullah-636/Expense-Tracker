@@ -4,13 +4,6 @@ A feature-packed, interactive Command-Line Interface (CLI) Expense Tracker built
 
 ---
 
-## Author & Internship Details
-
-* **Name:** Samiullah
-* **Registration Number:** `CX-INT-2026-PY-0057`
-
----
-
 ## Features Implemented
 
 * **Add & Categorize Expenses:** Record expenses with description, amount, category selection, and automatic timestamp generation (`YYYY-MM-DD HH:MM`).
